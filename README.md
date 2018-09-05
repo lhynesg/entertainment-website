@@ -6,6 +6,7 @@ Objectives of the Project:
 2.	Create an animal rescue website that will help the homeless dogs to find their new home.
 3.	Create an intuitive website.
 
+# Screenshots
 
 ![](HappyTails/ht1.png)
 ![](HappyTails/ht2.png)
